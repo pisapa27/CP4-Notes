@@ -16,6 +16,11 @@
 
 <p>Putting anything between &lt;body> and &lt;/body> will insert it into ur document.</p>
 
+<p>Using alt in a image code will aid the visually impaired in understanding your web page.</p>
+
+<p>You can also add videos to your webpage by using &lt;video src="myVideo.mp4" width="320" height="240" controls>
+   Video not supported &lt;/video>. The code must include width and height to specify how large the video screen will be.<p>
+</body>
 <p>You should use &lt;p> and &lt;/p> whenever you are writing something in the body.</p>
 
 <p>&lt;br> brand &lt;br /> will separate two lines of writing that you put between it.</p>
@@ -31,4 +36,10 @@
 <p>You can make words bold by using &lt;strong> and &lt;/strong>.</p>
 
 <p>Putting two line breaks directly next to each other will separate two sentences.</p>
+
+<p>You can make easy to read unordered lists using &lt;ul> and &lt;/ul> and then separating the words in the list using &lt;li> and &lt;/li>.</p>
+
+<p>You can make ordered lists using &lt;ol> and &lt;/ol> which puts numbers next to each word in the list.</p>
+
+<p>You can add images to your webpage using &lt;img src="image-location.com" />. This code goes to get the image from the source (src) that you enter in the quotes.<p>
 </body>

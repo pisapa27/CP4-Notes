@@ -22,7 +22,7 @@
 
 		<p>You should use &lt;p> and &lt;/p> whenever you are writing something in the body.</p>
 
-		<p>&lt;br> brand &lt;br /> will separate two lines of writing that you put between it.</p>
+		<p>&lt;br> and &lt;br /> will separate two lines of writing that you put between it.</p>
 
 		<p>There is a whole hierarchy to HTML to help organize the code you are writing in it.</p>
 

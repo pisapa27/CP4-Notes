@@ -1,1 +1,13 @@
+h1 {
+	text-align: center;
+}
+
+table {
+	border-style: dotted;
+	border-color: black red;
+}
+
+th {
+	font-weight: bold;
+}
 
